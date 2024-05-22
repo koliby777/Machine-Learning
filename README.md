@@ -10,9 +10,9 @@ Learn some math basics! Focus only on these topics, then come back later in case
 
  * [Khan Academy - Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
  * [Khan Academy - Differential Equations](https://www.khanacademy.org/math/differential-equations)
- * [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)    = zde jet Unit 1: Vectors and spaces !???
+ * [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra) 
  * [Khan Academy - Statistics Probability](https://www.khanacademy.org/math/statistics-probability)
- * [Optional: 3Blue1Brown - Essence of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra-page/)   -  toto radeji zkusit !!!!!!!!!!!!!
+ * [Optional: 3Blue1Brown - Essence of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra-page/)   -  toto !!!!!!!!!!!!!
  
 ## 2. Learn Python
 
