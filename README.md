@@ -17,7 +17,7 @@ Learn some math basics! Focus only on these topics, then come back later in case
 ## 2. Learn Python
 
 * [4h Beginner Course](https://youtu.be/rfscVS0vtbw)  
-* [6h Intermediate Python Programming Course](https://youtu.be/HGOBQPFzWKo) .... asi NE
+* [6h Intermediate Python Programming Course](https://youtu.be/HGOBQPFzWKo) .... asi ????
 * toto je lepsi >   https://www.youtube.com/watch?v=LHBE6Q9XlzI&t=33429s  Python for Data Science  !!!!
 
 ## 3. Learn The ML Tech Stack:
